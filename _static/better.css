@@ -247,6 +247,7 @@ div.admonition ul, div.admonition ol {
 p.admonition-title {
     display: inline;
     margin-right: 0;
+	color: #c00
 }
 
 p.admonition-title:after {
